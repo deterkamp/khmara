@@ -1,0 +1,17 @@
+# Read about fixtures at http://api.rubyonrails.org/classes/ActiveRecord/FixtureSet.html
+
+one:
+  name: MyText
+  sex: MyText
+  dob: 2014-11-28 14:45:25
+  blood_type: MyText
+  address: MyText
+  contacts: MyText
+
+two:
+  name: MyText
+  sex: MyText
+  dob: 2014-11-28 14:45:25
+  blood_type: MyText
+  address: MyText
+  contacts: MyText
